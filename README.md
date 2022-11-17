@@ -1,6 +1,6 @@
-#Sign-up Form
+# Project Sign-up Form
 
-This project is the first page of most project been a sign-up page.
+This project is the first page of most project being a sign-up page.
 
 ## Skillset 
 
