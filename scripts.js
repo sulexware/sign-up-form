@@ -1,0 +1,1 @@
+// Javascripts needed for the signup form
